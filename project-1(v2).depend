@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1489786102 source:g:\study courses tut\basic of programming\c++codes\project-1\project-1(v2)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<set>
+	<map>
+	<algorithm>
+
+1489831528 source:g:\study courses tut\basic of programming\c++codes\project-1\project-1(v3)\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<set>
+	<map>
+	<algorithm>
+
+1489848109 source:g:\study courses tut\basic of programming\c++codes\project-1\basicofprogramming-project1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<set>
+	<map>
+	<algorithm>
+
+1490494622 source:c:\users\halder\desktop\basicofprogramming-project1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<set>
+	<map>
+	"Read.h"
+	"Splitter.h"
+	"UserInterface.h"
+
+1490494622 c:\users\halder\desktop\basicofprogramming-project1\read.h
+	"Splitter.h"
+	<string>
+	<fstream>
+	<iostream>
+	<vector>
+	<map>
+
+1490494622 source:c:\users\halder\desktop\basicofprogramming-project1\read.cpp
+	"Read.h"
+	"Splitter.h"
+	<string>
+	<fstream>
+	<iostream>
+	<vector>
+	<map>
+
+1490494622 c:\users\halder\desktop\basicofprogramming-project1\splitter.h
+	<vector>
+	<string>
+
+1490494622 source:c:\users\halder\desktop\basicofprogramming-project1\splitter.cpp
+	"Splitter.h"
+	<vector>
+	<string>
+
+1490494648 c:\users\halder\desktop\basicofprogramming-project1\userinterface.h
+	"Splitter.h"
+	<map>
+	<vector>
+	<string>
+	<set>
+
+1490523085 source:c:\users\halder\desktop\basicofprogramming-project1\userinterface.cpp
+	"UserInterface.h"
+	"Splitter.h"
+	<iostream>
+	<vector>
+	<string>
+	<set>
+	<algorithm>
+
